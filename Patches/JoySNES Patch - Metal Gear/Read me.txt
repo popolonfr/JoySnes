@@ -1,0 +1,47 @@
+These patches (v1.3) allow to play to Metal Gear on MSX with the
+8 buttons of a SNES controller using JoySNES adapter.
+
+
+"Metal Gear (J) [JoySNES].IPS" file is the patch for Japanese
+version of Metal Gear.
+
+"Metal Gear [JoySNES].IPS" file is the patch for European
+version of Metal Gear.
+ 
+"Metal Gear Remix [JoySNES].IPS" file is the patch for Remix
+version (v1.9) of Metal Gear.
+
+Metal Gear Remix is the version translated into English by
+Takamichi Suzukawa, Jon Taylor and Nekura_Hoka.
+
+When the patch is applied to the Rom, the game will be
+ playable with only the JoySNES (in extended mode).
+
+Buttons mapping:
+
+ Directional pad = Player movements
+ L trigger = Open/Close weapons menu
+ R trigger = Open/Close equipment menu
+ X = Continue 
+ Y = Transceiver
+ A = Shoot/Select
+ B = Punch/Abort/Skip texts
+ Start = Pause 
+
+During Pause, press X or Y to open the menu of game save or load.
+The file name is always written with the keyboard.
+Press the ESC key to return to the game.
+
+How to execute the Rom:
+
+- If you have a MegaFlashRom with konami mapper without SCC, use the
+  loader FLK4.COM (by GDX).
+- If you have a MegaFlashRom SCC, use the loader FL.COM (by GDX) or
+  SROM.COM (by Louthrax).
+- If your MSX has a Memory Mapper of 512KB or more try with
+  SROM.COM (by Louthrax). Be careful, the game does not work with the v2.1.
+
+These solutions are not exhaustive.
+
+
+Popolon (fr)

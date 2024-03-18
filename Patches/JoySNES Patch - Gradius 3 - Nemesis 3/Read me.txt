@@ -1,0 +1,38 @@
+This patch allows to play to Gradius 3 / Nemesis 3 on MSX with 8 buttons of
+a controller for SNES using JoySNES adapter.
+
+"Gradius 3 - Nemesis 3 [JSNES].IPS" file is the patch to apply on original
+Rom (CRC32 = 4B61AE91 or 0DB7132F).
+
+Use one of the following software to apply the patch.
+http://www.msx.org/wiki/How_to_use_IPS_files
+
+When the patch is applied to the Rom, the game will be
+playable with only a JoySNES or a controller for FM-Towns.
+
+
+Buttons mapping in game:
+
+ Directional pad = Player movements
+ A = Fire
+ B = Select a weapon
+ Start = Pause / Continue the game after a game over
+ X = Autofire (JoySNES only)
+ Y = Same as B with autofire, Usable but prefer B (JoySNES only)
+
+
+How to execute the Rom:
+
+- If you have a MegaFlashRom SCC, use the loader FL.COM (by GDX) or
+  OPFX.COM (by Manuel Pazos and Ramones).
+- If you have a MegaFlashRom SCC + SD, use OPFXSD.COM (by Manuel
+  Pazos and Ramones).
+- If you have a MegaSram SCC, use MGLOAD.COM (by Tsujikawa) or
+  SROM.COM (by Louthrax).
+- If your MSX has a Memory Mapper of 256KB and a SCC cartridge (without
+  ROM) or more try with SROM.COM (by Louthrax).
+
+These solutions are not exhaustive.
+
+
+Popolon (fr)

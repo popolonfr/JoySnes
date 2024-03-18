@@ -1,0 +1,46 @@
+Ces patchs permettent de jouer à "The Treasure Of USAS" sur MSX avec
+une manette SNES à 8 boutons grace à l'adaptateur JoySNES.
+
+
+Le fichier "USAS [JoySNES] (JE).IPS" est le patch pour la ROM
+ayant le crc32 : 30396650.
+
+Le fichier "USAS-a [JoySNES] (JE).IPS" est le patch pour la ROM
+ayant le crc32 : 1f1f1f26.
+ 
+Le fichier "USAS-a [JoySNES] (SP).IPS" est le patch pour la version
+de traduite en espagnol par Locomosxca. Le patch peut être appliqué
+aussi sur la ROM ayant le crc32 : 1f1f1f26.
+
+Utiliser un des logiciels suivants pour appliquer le patch.
+http://www.msx.org/wiki/How_to_use_IPS_files
+
+Une fois le patch appliqué à la Rom, le jeu sera
+jouable uniquement avec le JoySNES en mode Extra.
+
+Utilisation des boutons pendant le jeu :
+
+ Croix de direction = Mouvements du joueur
+ Start ou X = Ouvrir le menu des options
+ A = Attaquer
+ B = Sauter
+
+Buttons mapping in option screen:
+Start or X = Close the option screen
+ Y = Annuler
+ A = Sélectionner
+
+
+Comment lancer le fichier Rom ?
+
+- Si vous avez une MegaFlashRom au mapper konami sans SCC, utilisez le
+  lanceur FLK4.COM (de GDX).
+- Si vous avez une MegaFlashRom SCC, utilisez le lanceur FL.COM (de GDX)
+  ou SROM.COM (de Louthrax).
+- Si votre MSX a un Memory Mapper de 512Ko ou plus essayez avec
+  SROM.COM (de Louthrax). Attention, le jeu ne fonctionne pas avec la v2.1.
+
+Ces solutions ne sont pas exhaustives.
+
+
+Popolon (fr)

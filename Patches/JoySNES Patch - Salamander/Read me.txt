@@ -1,0 +1,54 @@
+These patches allows to play to Salamander on MSX with 8 buttons
+of a controller for SNES using JoySNES adapter.
+
+"Salamander [JoySNES].IPS" file is the patch for the original
+ROM (crc32 = c36f559d. It can also be applied on enhanced versions provided
+that the ROM file does not exceed 144KB. For those that exceed this size,
+please apply the JoySNES patch before applying the other patch.
+
+Available patches:
+http://frs.badcoffee.info/patches.html
+https://drive.google.com/file/d/0B5JJDQ3lHpfMSDFZcmEtLW84NXM
+https://sites.google.com/site/wyzplayer/Salamander_compact.7z
+https://www.msx.org/forum/msx-talk/development/salamander-voices-addon
+
+See also the folder /Extra, I grouped together those I found in it.
+
+Use one of the following software to apply the patch.
+http://www.msx.org/wiki/How_to_use_IPS_files
+
+When the patch is applied to the Rom, the game will be
+playable with only a JoySNES or a controller for FM-Towns.
+
+
+Buttons mapping in game:
+
+ Directional pad = Player movements
+ A = Fire
+ B = Select a weapon
+ Start = Pause / Continue the game after a game over
+ Select = Bring the other player during a pause (Dual play)
+ X = Autofire (JoySNES only)
+ Y = Same as B with Autofire, Usable but prefer B (JoySNES only)
+
+
+How to execute the Rom:
+
+- If you have a MegaFlashRom SCC, use the loader FL.COM (by GDX) or
+  OPFX.COM (by Manuel Pazos and Ramones).
+- If you have a MegaFlashRom SCC + SD, use OPFXSD.COM (by Manuel
+  Pazos and Ramones).
+- If you have a MegaSram SCC, use MGLOAD.COM (by Tsujikawa) or
+  SROM.COM (by Louthrax).
+- If your MSX has a Memory Mapper of 512KB and a SCC cartridge (without
+  game ROM) or more try with SROM.COM (by Louthrax).
+- To launch some improved versions, launch the ROM from MegaFlashROM SCC or a
+  MegaSram SCC inserted in a Slot. Sometimes You need a second SCC cartridge
+  in Slot 2 to get the voices. An internal Memory Mapper is required for this
+  version. You can use FL.COM, MGLOAD.COM, SROM.COM, etc depending on your
+  configuration.
+
+These solutions are not exhaustive.
+
+
+Popolon (fr)

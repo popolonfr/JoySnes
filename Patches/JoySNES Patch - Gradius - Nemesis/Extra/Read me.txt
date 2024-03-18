@@ -1,0 +1,49 @@
+﻿The patches in the "Extra" folder are improved versions by Martinez, Mikasen or
+Shalom grouped here together for those who do not have them yet. The patch for
+JoySNES in not included in them. You can apply a JoySNES patch before
+or after one of these patches (if you use the corresponding patch).
+
+
+"Gradius - Nemesis (JE)(SCC) [enhanced by Mikasen].ips" file is a patch made
+by Mikasen to enhance Gradius/Nemesis with SCC sound.
+
+Gradius - Nemesis (JE) [enhanced by Shalom].ips file is a patch made by
+Shalom (Version 1.00) to enhance Gradius/Nemesis. This patch modifies graphics
+to imitate the arcade version.
+
+Gradius - Nemesis (JE)(SCC) [enhanced by Shalom].ips file is a patch made by
+Shalom (Version 1.00) to enhance Gradius/Nemesis with SCC sound. This patch
+modifies graphics to imitate the arcade version. It's based on Mikasen's
+version.
+
+Gradius - Nemesis (SCC) [enhanced by Victor Martinez].ips file is a patch made
+by Victor Martinez (Version 1.01) to enhance Gradius/Nemesis with SCC sound.
+This patch is based on Shalom's version. This patch adds Smooth scroll for
+MSX2+/tubo R, graphic changes, turbo fix, etc.
+
+
+Apply one of these IPS patches on the original ROM that has following checksum.
+
+SHA-1
+e31ac6520e912c27ce96431a1dfb112bf71cb7b9
+CRC32
+42bd7751
+
+
+New functions are the following.
+
+Key input when booting:
+
+[P] Changes slightly the color palette on MSX2 and higher
+[E] Starts in EXPERT mode. Double speed for shots of spaceship, double
+    speed for enemy shots
+[D] Starts in DEVIL mode. Double speed for shots of spaceship, triple speed for
+    enemy shots and double speed for enemy moves
+
+
+Key input when playing:
+
+[C] Switches the CPU, only on turbo-R.
+    Z80 → R800-ROM → R800-DRAM → Z80 ...
+
+

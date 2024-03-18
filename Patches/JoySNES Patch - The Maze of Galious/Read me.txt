@@ -1,0 +1,43 @@
+This patch (v1.1) allows to play to "The Maze of Galious" on MSX with
+the 8 buttons of a SNES controller using JoySNES adapter.
+
+
+"MOG [JoySNES].IPS" file is the patch for original version.
+
+The file "MOG-PT [JoySNES].IPS" is the patch for the translated
+version in Portuguese by Lothian. This patch can be applied to
+the original version or the already translated version.
+
+Use one of the following software to apply the patch.
+http://www.msx.org/wiki/How_to_use_IPS_files
+
+When the patch is applied to the Rom, the game will be
+ playable with only the JoySNES (in extended mode).
+
+Buttons mapping:
+
+Directional pad = Player Movements / Move cursor
+  A = Sword Attack / Select
+  B = Attack with the second weapon / Use the magnifying glass
+  X = Jump or climb the ladder
+  Y = Use the Halo
+  R = Use the bible
+  Start = Pause / Resume game
+  Select = Show / Close options menu
+
+The name of spells are written with the keyboard.
+
+
+How to execute the Rom:
+
+- If you have a MegaFlashRom with konami mapper without SCC, use the
+  loader FLK4.COM (by GDX).
+- If you have a MegaFlashRom SCC, use the loader FL.COM (by GDX) or
+  SROM.COM (by Louthrax).
+- If your MSX has a Memory Mapper of 512KB or more try with
+  SROM.COM (by Louthrax). Be careful, the game does not work with the v2.1.
+
+These solutions are not exhaustive.
+
+
+Popolon (fr)

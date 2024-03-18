@@ -1,0 +1,14 @@
+Le fichier "Gradius 2 - Nemesis 2 (FR).ips" est un patch pour traduire le
+jeu en français.
+
+Le fichier "Gradius 2 - Nemesis 2 [FRS].ips" est un patch fait par FRS pour
+améliorer le jeu. (Défilement fluide sur MSX2+/turbo R, Dynamic-Vsync, etc)
+
+Le fichier "Gradius 2 Kittiya Ko (KR).ips" est un patch pour traduire le jeu
+en coréen.
+
+Le fichier "Gradius 2 - Nemesis 2 (PT).ips" est un patch pour traduire le jeu
+en portugais.
+
+Le patch pour JoySNES n'est pas inclus. Vous pouvez appliquer le patch JoySNES
+avant ou après un de ces patches si vous utilisez le patch correspondant. 

@@ -1,0 +1,55 @@
+Ces patches permettent de jouer à Salamander sur MSX avec une
+manette SNES à 8 boutons grâce à l'adaptateur JoySNES.
+
+Le fichier "Salamander [JoySNES].IPS" est le patch  pour la
+ROM originale (CRC32 = c36f559d). Il peut être aussi appliqué sur
+les versions améliorées à condition que le fichier ROM ne dépasse pas
+les 144Ko. Pour celles qui dépassent cette taille, veuillez appliquer
+le patch JoySNES avant d'appliquer l'autre patch. 
+
+Patches disponibles :
+http://frs.badcoffee.info/patches.html
+https://drive.google.com/file/d/0B5JJDQ3lHpfMSDFZcmEtLW84NXM
+https://sites.google.com/site/wyzplayer/Salamander_compact.7z
+https://www.msx.org/forum/msx-talk/development/salamander-voices-addon
+
+Voir aussi le dossier /Extra dans lequel sont regroupés les patches trouvés.
+
+Utiliser un des logiciels suivants pour appliquer le patch.
+http://www.msx.org/wiki/How_to_use_IPS_files
+
+Une fois le patch appliqué à la Rom, le jeu sera jouable
+uniquement avec le JoySNES ou bien avec une manette FM-Towns.
+
+
+Utilisation des boutons pendant le jeu :
+
+ Croix de direction = Mouvements du joueur
+ A = Tir
+ B = Sélection d'une arme
+ Start = Pause / Continuer la partie après un Game over
+ Select = Faire entrer l'autre joueur pendant une pause (pour Jouer à deux)
+ X = Tir automatique (JoySNES seulement)
+ Y = Pareil que B mais avec tir automatique, mieux vaut utiliser B (JoySNES
+     seulement)
+
+
+Comment lancer le fichier Rom ?
+
+- Si vous avez une MegaFlashRom au mapper Konami SCC, utilisez le
+  lanceur FL.COM (de GDX) ou OPFX.COM (de Manuel Pazos et Ramones).
+- Si vous avez une MegaFlashRom SCC + SD, utilisez le lanceur
+  OPFXSD.COM (de Manuel Pazos et Ramones).
+- Si vous avez une MegaSram SCC, utilisez le lanceur MGLOAD.COM (de Tsujikawa)
+  ou SROM.COM (de Louthrax).
+- Si votre MSX a un Memory Mapper de 512Ko ou plus et une cartouche SCC (sans
+  ROM), utilisez le lanceur SROM.COM (de Louthrax).
+- Pour lancer certaines versions améliorées, lancer la ROM depuis MegaFlashROM
+  SCC ou une MegaSram SCC insérée dans un Slot. Il faut parfois une deuxième
+  cartouche SCC dans le Slot 2 pour obtenir les voix. Vous pouvez utiliser
+  FL.COM, MGLOAD.COM, SROM.COM, etc en fonction de votre configuration.
+  
+Ces solutions ne sont pas exhaustives.
+
+
+Popolon (fr)

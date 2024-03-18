@@ -1,0 +1,44 @@
+This patch allow to play to "Metal Gear 2 - Solid Snake" on MSX with
+the 8 buttons of a SNES controller using JoySNES adapter.
+
+
+"Metal Gear 2 [JoySNES].IPS" file is the patch for Japanese
+version of Metal Gear and translated versions.
+
+Use one of the following software to apply the patch.
+http://www.msx.org/wiki/How_to_use_IPS_files
+
+When the patch is applied to the Rom, the game will be
+ playable with only the JoySNES (in extended mode).
+
+Buttons mapping:
+
+ Direction pad = Player movements
+ L trigger = Open/Close weapons menu
+ R trigger = Open/Close equipment menu
+ X = Crawl (as A + B) 
+ Y = Transceiver
+ A = Shoot/Select
+ B = Punch/Abort/Skip texts
+ Start = Pause
+ Select = Load/Save a game
+
+The file name of saving game is always written with the keyboard.
+
+How to execute the Rom:
+
+- If you have a MegaFlashRom SCC, use the loader FL.COM (by GDX) or
+  OPFX.COM (by Manuel Pazos and Ramones).
+- If you have a MegaFlashRom SCC + SD, use OPFXSD.COM (by Manuel
+  Pazos and Ramones).
+- If you have a MegaSram SCC, use MGLOAD.COM (by Tsujikawa) or
+  SROM.COM (by Louthrax).
+- If your MSX has a Memory Mapper of 1024KB and a SCC cartridge (without
+  ROM) or more try with SROM.COM with /T option (by Louthrax).
+  Note: The game does not work with the v2.1.
+
+
+These solutions are not exhaustive.
+
+
+Popolon (fr)

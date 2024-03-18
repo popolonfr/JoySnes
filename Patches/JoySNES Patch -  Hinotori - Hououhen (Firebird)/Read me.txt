@@ -1,0 +1,40 @@
+This patch allows to play to "HinoTori" (Firebird) on MSX with the
+8 buttons of a SNES controller using JoySNES adapter.
+
+
+"Hinotori - Hououhen (J) [JoySNES].IPS" file is a patch for the Rom of the
+game "Hi no Tori" (Firebird). The patch can be applied on the different
+Japanese versions or translated versions by Bifi and Django.
+
+Use one of the following software to apply the patch.
+http://www.msx.org/wiki/How_to_use_IPS_files
+
+When the patch is applied to the Rom, the game will be
+ playable with only the JoySNES (in extended mode).
+
+Buttons mapping:
+
+ Directional pad = Player movements
+ L = Open/Close the weapon purchase menu
+ R = Open in-use items menu
+ X = Show the passages that interconnect the stages / Continue a game over
+ Y = Show the map of the current stage in hand
+ A = Shoot/Select
+ B = Jump/Close in-use items menu
+ Start = Pause (During the pause press Home key to see the password
+         corresponding to your progress so far. If you press HOME again
+         You will be able to enter a password that you have previously noted.)
+
+How to execute the Rom:
+
+- If you have a MegaFlashRom with konami mapper without SCC, use the
+  loader FLK4.COM (by GDX).
+- If you have a MegaFlashRom SCC, use the loader FL.COM (by GDX) or
+  SROM.COM (by Louthrax).
+- If your MSX has a Memory Mapper of 512KB or more try with
+  SROM.COM (by Louthrax). Be careful, the game does not work with the v2.1.
+
+These solutions are not exhaustive.
+
+
+Popolon (fr)

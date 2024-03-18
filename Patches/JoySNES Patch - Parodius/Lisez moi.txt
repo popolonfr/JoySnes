@@ -1,0 +1,44 @@
+Ces patches permettent de jouer à "Parodius Tako Saves Earth" sur MSX avec
+une manette SNES à 8 boutons grâce à l'adaptateur JoySNES.
+
+Le fichier "Parodius (J) [JoySNES].IPS" est le patch pour la ROM
+originale (CRC32 = 9bb308f5).
+
+Le fichier "Parodius (translated to English) [JoySNES].IPS" est le patch pour
+les ROM traduites en anglais.
+
+Note: Ces patches sont regroupés dans le dossier "Extra" pour ceux qui ne
+      les auraient pas encore.
+
+Utiliser un des logiciels suivants pour appliquer un patch.
+http://www.msx.org/wiki/How_to_use_IPS_files
+
+Une fois le patch appliqué à la Rom, le jeu sera jouable uniquement avec
+une manette SNES et le JoySNES ou bien avec une manette FM-Towns.
+
+
+Utilisation des boutons pendant le jeu :
+
+ Croix de direction = Mouvements du joueur
+ A = Tir
+ B = Sélection d'une arme
+ Start = Pause / Continuer la partie après un Game over
+ X = Tir automatique (JoySNES seulement)
+ Y = Utilisable mais mieux vaut utiliser B (JoySNES seulement)
+
+
+Comment lancer le fichier Rom ?
+
+- Si vous avez une MegaFlashRom au mapper Konami SCC, utilisez le
+  lanceur FL.COM (de GDX) ou OPFX.COM (de Manuel Pazos et Ramones).
+- Si vous avez une MegaFlashRom SCC + SD, utilisez le lanceur
+  OPFXSD.COM (de Manuel Pazos et Ramones).
+- Si vous avez une MegaSram SCC, utilisez le lanceur MGLOAD.COM (de Tsujikawa)
+  ou SROM.COM (de Louthrax).
+- Si votre MSX a un Memory Mapper de 512Ko ou plus et une cartouche SCC (sans
+  ROM), utilisez le lanceur SROM.COM (de Louthrax).
+
+Ces solutions ne sont pas exhaustives.
+
+
+Popolon (fr)

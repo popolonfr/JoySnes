@@ -1,0 +1,57 @@
+Ces patches permettent de jouer à Gradius/Nemesis sur MSX avec une manette SNES
+à 8 boutons grâce à l'adaptateur JoySNES.
+
+Le fichier "Gradius - Nemesis [JoySNES].IPS" est le patch pour la
+ROM originale au CRC32 = 42bd7751
+
+Le fichier "Gradius - Nemesis [JoySNES-a].IPS" est le patch pour la
+ROM originale au CRC32 = 3859c163.
+
+Le fichier "Gradius - Nemesis (SCC) [JoySNES].IPS" est le patch pour la
+version SCC ou SCC+ extraite du disque Konami Game Collection 3 avec
+KGC2ROMS.COM de Louthrax.
+http://lhalter.free.fr/mgr/kgc2roms.html
+
+Le fichier "Gradius - Nemesis enhanced (SCC) [JoySNES].IPS" est le patch pour la
+version améliorée de Victor Martinez, de Shalom ou de Mikasen. (Versions SCC)
+https://www.msx.org/forum/msx-talk/software/nemesis-gradius-enhanced-ips-patch
+https://www.msx.org/news/software/en/gradius-ips-patch
+
+Note: Ces patches de ces versions améliorées sont regroupés dans le dossier
+      "Extra" pour ceux qui ne les ont pas encore.
+
+Utiliser un des logiciels suivants pour appliquer un patch.
+http://www.msx.org/wiki/How_to_use_IPS_files
+
+Une fois le patch appliqué à la Rom, le jeu sera jouable uniquement avec
+une manette SNES et le JoySNES ou bien avec une manette FM-Towns.
+
+
+Utilisation des boutons pendant le jeu :
+
+ Croix de direction = Mouvements du joueur
+ A = Tir
+ B = Sélection d'une arme
+ Start = Pause / Continuer la partie après un Game over
+ X = Tir automatique (JoySNES seulement)
+ Y = Utilisable mais mieux vaut utiliser B (JoySNES seulement)
+
+
+Comment lancer le fichier Rom ?
+
+- Si vous avez une MegaFlashRom au mapper konami sans SCC, utilisez le
+  lanceur FLK4.COM (de GDX).
+- Si vous avez une MegaFlashRom SCC, utilisez le lanceur FL.COM (de GDX)
+  ou SROM.COM (de Louthrax).
+- Si votre MSX a un Memory Mapper de 512Ko ou plus essayez avec
+  SROM.COM (de Louthrax).
+- Pour lancer une version SCC, lancer la ROM depuis MegaFlashROM SCC ou
+  une MegaSram SCC insérée dans un Slot. Il faut une deuxième cartouche
+  SCC dans le Slot 2 pour obtenir les voix de la version de Victor. Un Memory
+  Mapper interne est nécessaire pour cette version. Vous pouvez utiliser
+  FL.COM, MGLOAD.COM, SROM.COM, etc en fonction de votre configuration. 
+
+Ces solutions ne sont pas exhaustives.
+
+
+Popolon (fr)

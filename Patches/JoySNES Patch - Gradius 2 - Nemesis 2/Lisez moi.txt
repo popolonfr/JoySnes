@@ -1,0 +1,52 @@
+﻿Ces patches permettent de jouer à Gradius 2 / Nemesis 2 sur MSX avec une
+manette SNES à 8 boutons grâce à l'adaptateur JoySNES.
+
+Le fichier "Gradius 2 - Nemesis 2 [JoySNES].IPS" est le patch  pour la
+ROM originale au CRC32 = db847b2b ou 32aba4e3. Il peut être aussi appliqué sur
+les versions traduites en français, coréen (Gradius 2 Kittiya Ko) et portugais.
+Il peut être aussi appliqué sur la version améliorées par FRS.
+http://frs.badcoffee.info/patches.html
+
+Le fichier "Gradius 2 - Nemesis 2 (Beta) [JoySNES].IPS" est le patch  pour les
+Rom originales, versions beta et demo (avec le stage de type égyptien).
+
+Utiliser un des logiciels suivants pour appliquer le patch.
+http://www.msx.org/wiki/How_to_use_IPS_files
+
+Une fois le patch appliqué à la Rom, le jeu sera jouable
+uniquement avec le JoySNES ou bien avec une manette FM-Towns.
+
+Le dossier "Extra" contient des patches de traduction en français, coréen et
+portugais plus un patch pour créer la versions améliorées par FRS.
+
+Utilisation des boutons pendant le jeu :
+
+ Croix de direction = Mouvements du joueur
+ A = Tir
+ B = Sélection d'une arme
+ Start = Pause / Continuer la partie après un Game over
+ X = Tir automatique (JoySNES seulement)
+ Y = Pareil que B mais avec tir automatique, mieux vaut utiliser B (JoySNES
+     seulement)
+
+
+Comment lancer le fichier Rom ?
+
+- Si vous avez une MegaFlashRom au mapper Konami SCC, utilisez le
+  lanceur FL.COM (de GDX) ou OPFX.COM (de Manuel Pazos et Ramones).
+- Si vous avez une MegaFlashRom SCC + SD, utilisez le lanceur
+  OPFXSD.COM (de Manuel Pazos et Ramones).
+- Si vous avez une MegaSram SCC, utilisez le lanceur MGLOAD.COM (de Tsujikawa)
+  ou SROM.COM (de Louthrax).
+- Si votre MSX a un Memory Mapper de 512Ko ou plus et une cartouche SCC (sans
+  ROM), utilisez le lanceur SROM.COM (de Louthrax).
+- Pour lancer une version améliorée, lancer la ROM depuis MegaFlashROM SCC ou
+  une MegaSram SCC insérée dans un Slot. Il faut une deuxième cartouche
+  SCC dans le Slot 2 pour obtenir les voix. Un Memory Mapper interne est
+  nécessaire pour cette version. Vous pouvez utiliser FL.COM, MGLOAD.COM,
+  SROM.COM, etc en fonction de votre configuration.
+  
+Ces solutions ne sont pas exhaustives.
+
+
+Popolon (fr)

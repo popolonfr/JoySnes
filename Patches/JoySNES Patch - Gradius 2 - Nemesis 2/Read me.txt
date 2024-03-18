@@ -1,0 +1,50 @@
+These patches allows to play to Gradius 2 / Nemesis 2 on MSX with 8 buttons
+of a controller for SNES using JoySNES adapter.
+
+"Gradius 2 - Nemesis 2 [JoySNES].IPS" file is the patch for the original
+ROM with crc32 = db847b2b or 32aba4e3. It can also be applied on translated
+versions in French, Korean (Gradius 2 Kittiya Ko) and Portuguese.
+It can also be applied on the improved version by FRS.
+http://frs.badcoffee.info/patches.html
+
+"Gradius 2 - Nemesis 2 (Beta) [JoySNES].IPS" file is the patch for the beta
+and demo versions (with the Egyptian style stage).
+
+Use one of the following software to apply the patch.
+http://www.msx.org/wiki/How_to_use_IPS_files
+
+When the patch is applied to the Rom, the game will be
+playable with only a JoySNES or a controller for FM-Towns.
+
+The "Extra" folder contains translation patches in French, Korean and
+Portuguese plus a patch for create the enhanced versions by FRS.
+
+Buttons mapping in game:
+
+ Directional pad = Player movements
+ A = Fire
+ B = Select a weapon
+ Start = Pause / Continue the game after a game over
+ X = Autofire (JoySNES only)
+ Y = Same as B with Autofire, Usable but prefer B (JoySNES only)
+
+
+How to execute the Rom:
+
+- If you have a MegaFlashRom SCC, use the loader FL.COM (by GDX) or
+  OPFX.COM (by Manuel Pazos and Ramones).
+- If you have a MegaFlashRom SCC + SD, use OPFXSD.COM (by Manuel
+  Pazos and Ramones).
+- If you have a MegaSram SCC, use MGLOAD.COM (by Tsujikawa) or
+  SROM.COM (by Louthrax).
+- If your MSX has a Memory Mapper of 512KB and a SCC cartridge (without
+  game ROM) or more try with SROM.COM (by Louthrax).
+- To launch an improved version, launch the ROM from MegaFlashROM SCC or a
+  MegaSram SCC inserted in a Slot. You need a second SCC cartridge in Slot 2
+  to get the voices. An internal Memory Mapper is required for this version.
+  You can use FL.COM, MGLOAD.COM, SROM.COM, etc depending on your configuration.
+
+These solutions are not exhaustive.
+
+
+Popolon (fr)

@@ -1,0 +1,48 @@
+﻿Ces patchs (v1.3) permettent de jouer à Metal Gear sur MSX avec les
+8 boutons d’une manette SNES grace à l'adaptateur JoySNES.
+
+
+Le fichier “Metal Gear (J) [JoySNES].IPS” est le patch pour la version
+japonaise de Metal Gear.
+
+Le fichier “Metal Gear [JoySNES].IPS” est le patch pour la version
+européenne de Metal Gear.
+ 
+Le fichier “Metal Gear Remix [JoySNES].IPS” est le patch pour la version
+de Metal Gear Remix (v1.9).
+
+Metal Gear Remix v1.9 est la version traduite en anglais par Takamichi Suzukawa,
+Jon Taylor et Nekura_Hoka.
+
+Une fois le patch appliqué à la Rom, le jeu sera
+jouable uniquement avec le JoySNES en mode Extra.
+
+Utilisation des boutons :
+
+ Croix de direction = Mouvements du joueur
+ L = Ouvrir/Fermer le menu des armes
+ R = Ouvrir/Fermer le menu de l’équipement
+ X = Continuer
+ Y = Émetteur-récepteur
+ A = Tirer/Sélectionner
+ B = Coup de poing/Annuler/Passer les textes
+ Start = Pause
+
+Pendant la pause, presser X ou Y pour ouvrir le menu de
+sauvegarde ou de chargement.
+Le nom de fichier s'écrit toujours au clavier.
+Presser la touche ESC pour retourner au jeu.
+
+Comment lancer le fichier Rom ?
+
+- Si vous avez une MegaFlashRom au mapper konami sans SCC, utilisez le
+  lanceur FLK4.COM (de GDX).
+- Si vous avez une MegaFlashRom SCC, utilisez le lanceur FL.COM (de GDX)
+  ou SROM.COM (de Louthrax).
+- Si votre MSX a un Memory Mapper de 512Ko ou plus essayez avec
+  SROM.COM (de Louthrax). Attention, le jeu ne fonctionne pas avec la v2.1.
+
+Ces solutions ne sont pas exhaustives.
+
+
+Popolon (fr)

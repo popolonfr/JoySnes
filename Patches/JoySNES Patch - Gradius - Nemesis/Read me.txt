@@ -1,0 +1,58 @@
+These patches allows to play to Gradius/Nemesis on MSX with a controller
+with 8 buttons for SNES using JoySNES adapter.
+
+"Gradius - Nemesis [JoySNES].IPS" file is the patch for original ROM that has
+CRC32 = 42bd7751.
+
+"Gradius - Nemesis [JoySNES-a].IPS" file is the patch for original ROM that has
+CRC32 = 3859c163.
+
+"Gradius - Nemesis (SCC) [JoySNES].IPS" file is the patch for the SCC or SCC+
+version extracted from the Konami Game Collection 3 disc with KGC2ROMS.COM by
+Louthrax.
+http://lhalter.free.fr/mgr/kgc2roms.html
+
+"Gradius - Nemesis enhanced (SCC) [JoySNES].IPS" file is the patch for
+enhanced versions by Victor Martinez, Shalom and Mikasen. (Versions with
+SCC sound only.)
+https://www.msx.org/forum/msx-talk/software/nemesis-gradius-enhanced-ips-patch
+https://www.msx.org/news/software/en/gradius-ips-patch
+
+Note: I have grouped the patches of these improved versions in the "Extra"
+      folder for those who don't have them yet.
+
+Use one of the following software to apply a patch.
+http://www.msx.org/wiki/How_to_use_IPS_files
+
+When the patch is applied to the Rom, the game will be
+playable with only a SNES controller and a JoySNES or a controller for FM-Towns.
+
+
+Buttons mapping in game:
+
+ Directional pad = Player movements
+ A = Fire
+ B = Select a weapon
+ Start = Pause / Continue the game after a game over
+ X = Autofire (JoySNES only)
+ Y = Same as B with Autofire, Usable but prefer B (JoySNES only)
+
+
+How to execute the Rom:
+
+- If you have a MegaFlashRom with konami mapper without SCC, use the
+  loader FLK4.COM (by GDX).
+- If you have a MegaFlashRom SCC, use the loader FL.COM (by GDX) or
+  SROM.COM (by Louthrax).
+- If your MSX has a Memory Mapper of 512KB or more try with
+  SROM.COM (by Louthrax).
+- To launch an SCC version, launch the ROM from MegaFlashROM SCC or a MegaSram
+  SCC inserted in a Slot. You need a second SCC cartridge in Slot 2 to get the
+  voices of Victor's version. An internal Memory Mapper is required for this
+  version. You can use FL.COM, MGLOAD.COM, SROM.COM, etc depending on your
+  configuration.
+
+These solutions are not exhaustive.
+
+
+Popolon (fr)

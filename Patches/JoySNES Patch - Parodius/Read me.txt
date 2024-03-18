@@ -1,0 +1,44 @@
+These patches allows to play to "Parodius Tako Saves Earth" on MSX with a
+controller with 8 buttons for SNES using JoySNES adapter.
+
+"Parodius (J) [JoySNES].IPS" file is the patch for original ROM (CRC32 =
+9bb308f5).
+
+"Parodius (translated to English) [JoySNES].IPS" file is the patch for
+Roms translated to English.
+
+Note: I have grouped these patches in the "Extra" folder for those who
+      don't have them yet.
+
+Use one of the following software to apply a patch.
+http://www.msx.org/wiki/How_to_use_IPS_files
+
+When the patch is applied to the Rom, the game will be
+playable with only a SNES controller and a JoySNES or a controller for FM-Towns.
+
+
+Buttons mapping in game:
+
+ Directional pad = Player movements
+ A = Fire
+ B = Select a weapon
+ Start = Pause / Continue the game after a game over
+ X = Autofire (JoySNES only)
+ Y = Same as B with Autofire, Usable but prefer B (JoySNES only)
+
+
+How to execute the Rom:
+
+- If you have a MegaFlashRom SCC, use the loader FL.COM (by GDX) or
+  OPFX.COM (by Manuel Pazos and Ramones).
+- If you have a MegaFlashRom SCC + SD, use OPFXSD.COM (by Manuel
+  Pazos and Ramones).
+- If you have a MegaSram SCC, use MGLOAD.COM (by Tsujikawa) or
+  SROM.COM (by Louthrax).
+- If your MSX has a Memory Mapper of 512KB and a SCC cartridge (without
+  game ROM) or more try with SROM.COM (by Louthrax).
+
+These solutions are not exhaustive.
+
+
+Popolon (fr)

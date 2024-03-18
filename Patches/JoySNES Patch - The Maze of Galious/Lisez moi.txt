@@ -1,0 +1,45 @@
+Ces patchs (v1.1) permettent de jouer à "The Maze of Galious" sur MSX avec
+les 8 boutons d’une manette SNES grace à l'adaptateur JoySNES.
+
+
+Le fichier “MOG [JoySNES].IPS” est le patch pour la version
+originale.
+
+Le fichier “MOG-PT [JoySNES].IPS” est le patch pour la version
+traduite en portugais par Lothian. Ce patch peut être appliqué
+aussi bien sur la version originale que sur la version traduite.
+
+Utiliser un des logiciels suivants pour appliquer le patch.
+http://www.msx.org/wiki/How_to_use_IPS_files
+
+Une fois le patch appliqué à la Rom, le jeu sera
+jouable uniquement avec le JoySNES en mode Extra.
+
+
+Utilisation des boutons :
+
+ Croix de direction = Mouvements du joueur / Déplacement de curseur
+ A = Attaque à l’épée / Sélectionner
+ B = Attaquer avec la seconde arme / Utiliser la loupe
+ X = Sauter ou monter à l'échelle
+ Y = Utiliser l'auréole
+ R = Utiliser la bible
+ Start = Pause / Reprendre la partie
+ Select = Afficher / Fermer le menu des options
+
+Le nom des sortilèges s'écrivent au clavier.
+
+
+Comment lancer le fichier Rom ?
+
+- Si vous avez une MegaFlashRom au mapper konami sans SCC, utilisez le
+  lanceur FLK4.COM (de GDX).
+- Si vous avez une MegaFlashRom SCC, utilisez le lanceur FL.COM (de GDX)
+  ou SROM.COM (de Louthrax).
+- Si votre MSX a un Memory Mapper de 512Ko ou plus essayez avec
+  SROM.COM (de Louthrax). Attention, le jeu ne fonctionne pas avec la v2.1.
+
+Ces solutions ne sont pas exhaustives.
+
+
+Popolon (fr)

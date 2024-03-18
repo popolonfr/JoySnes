@@ -1,0 +1,56 @@
+These patches allow to play to SCC version of "Akumajou Dracula / Vampire Killer" on MSX with
+the 8 buttons of a SNES controller using JoySNES adapter.
+
+The procedure for obtaining the SCC version of Vampire Killer is downloadable here:
+https://www.msx.org/downloads/vampire-killer-patch-to-scc
+
+
+"VampKill-scc [JoySNES].IPS" file is the patch for the Rom with the
+crc32: ba055161.
+
+"VampKill-scc-sub [JoySNES].ips" file is a subsidiary version of this
+patch, the buttons A and Y are reversed (see below).
+
+
+Use one of the following software to apply the patch.
+http://www.msx.org/wiki/How_to_use_IPS_files
+
+When the patch is applied to the Rom, the game will be
+ playable with only the JoySNES (in extended mode).
+
+Buttons mapping in game:
+
+ Directional pad = Player movements
+ X = Using the hourglass / Replay from last stage lost (Game Master in slot-2)
+ Y = View the map in possession
+ L ou R = Throw a vial of holy water to left or right
+ A = Attack
+ B = Jump
+ Start = Pause
+
+Buttons mapping in game with the subsidiary version of the patch::
+
+ Directional pad = Player movements
+ X = Using the hourglass / Replay from last stage lost (Game Master in slot-2)
+ A = View the map in possession
+ L ou R = Throw a vial of holy water to left or right
+ Y = Attack
+ B = Jump
+ Start = Pause
+
+
+How to execute the Rom:
+
+- If you have a MegaFlashRom with 8k ASCII mapper, use the loader
+  FL8.COM (by GDX).
+- If you have a MegaFlashRom with konami mapper without SCC, use the
+  loader FLK4.COM (by GDX).
+- If you have a MegaFlashRom SCC, use the loader FL.COM (by GDX) or
+  SROM.COM (by Louthrax).
+- If your MSX has a Memory Mapper of 512KB or more try with
+  SROM.COM (by Louthrax). Be careful, the game does not work with the v2.1.
+
+These solutions are not exhaustive.
+
+
+Popolon (fr)

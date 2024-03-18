@@ -1,0 +1,11 @@
+Gradius 2 - Nemesis 2 (FR).ips file is a patch to translate to French.
+
+Gradius 2 - Nemesis 2 [FRS].ips file is a patch made by FRS to enhance
+the game. (Smooth scroll on MSX2+/turbo R, Dynamic-Vsync, etc)
+
+Gradius 2 Kittiya Ko (KR).ips is a patch to translate to Korean.
+
+Gradius 2 - Nemesis 2 (PT).ips a patch to translate to Portugese.
+
+The patch for JoySNES in not included. You can apply a JoySNES patch before
+or after one of these patches if you use the corresponding patch.

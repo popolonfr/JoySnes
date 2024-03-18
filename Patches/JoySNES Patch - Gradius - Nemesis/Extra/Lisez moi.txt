@@ -1,0 +1,49 @@
+﻿Les patches dans le dossier "Extra" sont des versions améliorées par
+Martinez, Mikasen ou Shalom regroupés ici pour ceux qui ne les ont pas encore.
+Le patch pour JoySNES n'est pas inclus. Vous pouvez appliquer le patch JoySNES
+avant ou après un de ces patches (si vous utilisez le patch correspondant).
+
+
+Le fichier "Gradius - Nemesis (JE)(SCC) [enhanced by Mikasen].ips" est un
+patch fait par Mikasen pour améliorer Gradius/Nemesis avec le son SCC.
+
+Le fichier "Gradius - Nemesis (JE) [enhanced by Shalom].ips" est un patch fait
+par Shalom (Version 1.00) pour améliorer Gradius/Nemesis. Ce patch modifie les
+graphismes pour imiter la version arcade.
+
+Le fichier "Gradius - Nemesis (JE)(SCC) [enhanced by Shalom].ips" est un patch
+fait par Shalom (Version 1.00) pour améliorer Gradius/Nemesis avec le son SCC.
+Ce patch modifie les graphismes pour imiter la version arcade. Il est basé sur
+la version de Mikasen.
+
+Le fichier "Gradius - Nemesis (SCC) [enhanced by Victor Martinez].ips" est un
+patch fait par Victor Martinez (Version 1.01) pour améliorer Gradius/Nemesis
+avec le son. Ce patch est basé sur la version de Shalom. Ce correctif ajoute le
+défilement fuide pour MSX2+/turbo R, changements graphiques, support des modes
+turbo, etc.
+
+
+Appliquez l'un de ces correctifs IPS sur la ROM d'origine ayant la somme de
+contrôle suivante.
+
+SHA-1
+e31ac6520e912c27ce96431a1dfb112bf71cb7b9
+CRC32
+42bd7751
+
+
+Les nouvelles fonctions sont les suivantes.
+
+Touches à presser au démarrage :
+
+[P] Modifie légèrement la palette de couleurs sur MSX2 et plus
+[E] Démarre en mode EXPERT. Double la vitesse de tir du vaisseau spatial
+    et des tirs ennemis.
+[D] Démarre en mode DIABOLIQUE. Double vitesse des tir du vaisseau spatial, triple
+    la vitesse des tir des ennemis et double vitesse des mouvements ennemis.
+
+
+Touche active pendant le jeu:
+
+[C] Change le CPU sur turbo-R.
+    Z80 → R800-ROM → R800-DRAM → Z80 ...

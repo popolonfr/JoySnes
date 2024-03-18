@@ -1,0 +1,40 @@
+Ce patch permet de jouer à "Hinotori" (Firebird) sur MSX avec
+une manette SNES à 8 boutons grace à l'adaptateur JoySNES.
+
+
+Le fichier "Hinotori - Hououhen (J) [JoySNES].IPS" est un patch pour la
+ROM du jeu "Hinotori" (L'oiseau de feu). Il peut être appliqué sur les
+différentes versions japonaises ou celles traduites par Bifi ou Django.
+
+Utiliser un des logiciels suivants pour appliquer le patch.
+http://www.msx.org/wiki/How_to_use_IPS_files
+
+Une fois le patch appliqué à la Rom, le jeu sera
+jouable uniquement avec le JoySNES en mode Extra.
+
+Utilisation des boutons :
+
+ Croix de direction = Mouvements du joueur
+ L = Afficher/Fermer le menu d'achat d'arme
+ R = Afficher les objets obtenus
+ X = Afficher la carte des passages qui relient les stages / Reprendre une partie perdue
+ Y = Afficher la carte en possession du stage actuel
+ A = Tirer/Sélectionner
+ B = Sauter/Revenir au jeu lorsque les objets obtenus sont affichés
+ Start = Pause (Pendant la pause, appuyez sur la touche Home pour voir
+         le mot de passe de sauvegarde. En pressant Home à nouveau, vous
+         pourrez entrer un mot de passe que vous avez notez auparavant.)
+
+Comment lancer le fichier Rom ?
+
+- Si vous avez une MegaFlashRom au mapper konami sans SCC, utilisez le
+  lanceur FLK4.COM (de GDX).
+- Si vous avez une MegaFlashRom SCC, utilisez le lanceur FL.COM (de GDX)
+  ou SROM.COM (de Louthrax).
+- Si votre MSX a un Memory Mapper de 512Ko ou plus essayez avec
+  SROM.COM (de Louthrax). Attention, le jeu ne fonctionne pas avec la v2.1.
+
+Ces solutions ne sont pas exhaustives.
+
+
+Popolon (fr)

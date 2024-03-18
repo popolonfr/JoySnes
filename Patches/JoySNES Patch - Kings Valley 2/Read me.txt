@@ -1,0 +1,50 @@
+These patches allow to play to "King's Valley II - The Seal of El Giza" on
+MSX with the 8 buttons of a SNES controller using JoySNES adapter.
+
+
+"KVIIMSX1 [JoySNES].IPS" file is the patch for MSX1 version.
+
+"KVIIMSX2 [JoySNES].IPS" file is the patch for MSX2 version.
+ 
+"KVIIECYS [JoySNES].IPS" file is the patch for the version
+"Edit Contest Yuushuu Sakuhinshuu".
+
+Use one of the following software to apply the patch.
+http://www.msx.org/wiki/How_to_use_IPS_files
+
+When the patch is applied to the Rom, the game will be
+ playable with only the JoySNES (in extended mode).
+
+Buttons mapping in game:
+
+ Directional pad = Player movements
+ A = Use an item
+ B = Jump
+ Start = Pause
+ Select = Give up
+ Y = Displays the course plan during the pause
+ X = Play / Mute the music
+
+Using buttons in edit mode:
+
+  Right and Left = Move the cursor (file name / password)
+  X = Cancel / Play again the stage
+  Y = OK
+  L = Switch from the editor to the options menu and vice versa / Load a file
+
+How to execute the Rom:
+
+- If you have a MegaFlashRom SCC, use the loader FL.COM (by GDX) or
+  OPFX.COM (by Manuel Pazos and Ramones).
+- If you have a MegaFlashRom SCC + SD, use OPFXSD.COM (by Manuel
+  Pazos and Ramones).
+- If you have a MegaSram SCC, use MGLOAD.COM (by Tsujikawa) or
+  SROM.COM (by Louthrax).
+- If your MSX has a Memory Mapper of 256KB and a SCC cartridge (without
+  ROM) or more try with SROM.COM with /T option (by Louthrax).
+  Note: The game does not work with the v2.1.
+
+These solutions are not exhaustive.
+
+
+Popolon (fr)
