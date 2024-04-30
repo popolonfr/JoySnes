@@ -4,10 +4,10 @@ Here are stored [**patches**](https://www.msx.org/wiki/How_to_use_IPS_files) wit
 
 
 <p align="center">
-<img src="Pictures/Image1.JPG" width="500px"/>
-<img src="Pictures/Image2.JPG" width="500px"/>
-<img src="Pictures/Super_Famicom_Controller.jpg" width="500px"/>
-</p>p
+<img src="Pictures/Image1.JPG" width="400px"/>
+<img src="Pictures/Image2.JPG" width="400px"/>
+<img src="Pictures/Super_Famicom_Controller.jpg" width="400px"/>
+</p>
 
 &copy; 2017 popolon-fr
 
