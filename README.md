@@ -19,7 +19,7 @@ Here are stored [**patches**](https://www.msx.org/wiki/How_to_use_IPS_files) wit
 
 * **Version 1.3 and above**
   * Pressing \[ **`R`** + **`L`** + **`SELECT`** + **`X`**] simultaneously enters **EXTRA** mode.
-  * Pressing \[ **`R`** + **`L`** + **`SELECT`** + **`X`**] simultaneously enters **DEFAULT** mode.
+  * Pressing \[ **`R`** + **`L`** + **`SELECT`** + **`Y`**] simultaneously enters **DEFAULT** mode.
   * Pressing \[**`R`** + **`SELECT`** + **`START`**] simultaneously swaps \[**`A`** with **`B`**] and swaps \[**`X`** with **`Y`**].
   * Pressing \[**`R`** + **`START`** + (*Directional pad*)] simultaneously to change the **autofire** speed.
     * *Directional pad* :
