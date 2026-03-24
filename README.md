@@ -10,25 +10,25 @@ Here are stored [**patches**](https://www.msx.org/wiki/How_to_use_IPS_files) wit
 
 ###### **Description of the JoySnes button combinations on the SNES Joypad**
 
-Pressing \[**`L` + `SELECT` + `START`**] simultaneously swaps \[**`L`** with **`R`**].
+Pressing \[**`L`** + **`SELECT`** + **`START`**] simultaneously swaps \[**`L`** with **`R`**].
 
-Pressing \[**`R` + `L` + `SELECT` + `START`**] simultaneously swaps \[**`Y`** with **`A`**].
+Pressing \[**`R`** + **`L`** + **`SELECT`** + **`START`**] simultaneously swaps \[**`Y`** with **`A`**].
 
 ###### **Version 1.3 and above**
 
-Pressing \[**`R` + `SELECT` + `START`**] simultaneously swaps \[**`A`** with **`B`**] and swaps \[**`X`** with **`Y`**].
+Pressing \[**`R`** + **`SELECT`** + **`START`**] simultaneously swaps \[**`A`** with **`B`**] and swaps \[**`X`** with **`Y`**].
 
-Pressing \[**`R` + `START` +** (*Directional pad*)] simultaneously.
+Pressing \[**`R`** + **`START`** + (*Directional pad*)] simultaneously to change the **autofire** speed.
 
 * *Directional pad*:
-  * \[`DOWN` ] : slow
+  * \[**`DOWN`** ] : slow
   * \[**`LEFT`** ] : Medium
   * \[**`RIGHT`**] : Speed
   * \[**`UP`**   ] : More speed
 
-Pressing \[ **`R` + `L` + `SELECT` + `X`**] simultaneously enters **EXTRA** mode.
+Pressing \[ **`R`** + **`L`** + **`SELECT`** + **`X`**] simultaneously enters **EXTRA** mode.
 
-Pressing \[ **`R` + `L` + `SELECT` + `X`**] simultaneously enters **DEFAULT** mode.
+Pressing \[ **`R`** + **`L`** + **`SELECT`** + **`X`**] simultaneously enters **DEFAULT** mode.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
