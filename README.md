@@ -6,7 +6,7 @@ Here are stored [**IPS**](https://www.msx.org/wiki/How_to_use_IPS_files) patches
 
 ## Compatibility
 
-It works on MSX, FM-Towns, and X68000; however, the **EXTENDED** mode is currently only used on MSX, and there is no IPS patch for other machines.
+It works on MSX, FM-Towns and X68000; however, the **EXTENDED** mode is currently only used on MSX, and there is no IPS patch for other machines.
 
 ---
 
