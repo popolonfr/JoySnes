@@ -14,6 +14,8 @@ Here are stored [**patches**](https://www.msx.org/wiki/How_to_use_IPS_files) wit
 
 ## List of button combinations on the **SNES** controller
 * **From version 1.0**
+  * Press and hold **`X`** when switching on the machine enters **EXTRA** mode.
+  * Press and hold **`Y`** when switching on the machine enters **DEFAULT** mode.
   * Pressing \[**`L`** + **`SELECT`** + **`START`**] simultaneously swaps \[**`L`** with **`R`**].
   * Pressing \[**`R`** + **`L`** + **`SELECT`** + **`START`**] simultaneously swaps \[**`Y`** with **`A`**].
 
@@ -23,10 +25,10 @@ Here are stored [**patches**](https://www.msx.org/wiki/How_to_use_IPS_files) wit
   * Pressing \[**`R`** + **`SELECT`** + **`START`**] simultaneously swaps \[**`A`** with **`B`**] and swaps \[**`X`** with **`Y`**].
   * Pressing \[**`R`** + **`START`** + (*Directional pad*)] simultaneously to change the **autofire** speed.
     * *Directional pad* :
-      * \[**`DOWN`** ] : slow
-      * \[**`LEFT`** ] : Medium
+      * \[**`DOWN`**] : slow
+      * \[**`LEFT`**] : Medium
       * \[**`RIGHT`**] : Speed
-      * \[**`UP`**   ] : More speed
+      * \[**`UP`**] : More speed
 
 **Note**: With each change, the state is retained.
 
