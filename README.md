@@ -27,7 +27,7 @@ It works on MSX, FM-Towns and X68000; however, the **EXTENDED** mode is currentl
   * Pressing \[ **`R`** + **`L`** + **`SELECT`** + **`X`**] simultaneously enters **EXTENDED** mode.
   * Pressing \[ **`R`** + **`L`** + **`SELECT`** + **`Y`**] simultaneously enters **DEFAULT** mode.
   * Pressing \[**`R`** + **`SELECT`** + **`START`**] simultaneously swaps \[**`A`** with **`B`**] and swaps \[**`X`** with **`Y`**].
-  * Pressing \[**`R`** + **`START`** + (*Directional pad*)] simultaneously to change the **autofire** speed.
+  * Pressing \[**`R`** + **`START`** + (*Directional pad*)] simultaneously to change the **auto-fire** speed.
     * *Directional pad* :
       * **`DOWN`** : slow
       * **`LEFT`** : Medium
