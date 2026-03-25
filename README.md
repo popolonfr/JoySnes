@@ -37,6 +37,11 @@ Here are stored [**patches**](https://www.msx.org/wiki/How_to_use_IPS_files) wit
 <img src="Pictures/Image2.JPG" width="400px"/>
 </p>
 
+<p align="center">
+<img src="Pictures/Image4.JPG" width="400px"/>
+<img src="Pictures/Image3.JPG" width="400px"/>
+</p>
+
 ---
 
 &copy; 2017 popolon-fr
