@@ -20,13 +20,13 @@ It works on MSX, FM-Towns and X68000; however, the **EXTENDED** mode is currentl
 * **From version 1.0**
   * Press and hold **`X`** when switching on the machine enters **EXTENDED** mode.
   * Press and hold **`Y`** when switching on the machine enters **DEFAULT** mode.
-  * Pressing \[**`L`** + **`SELECT`** + **`START`**] simultaneously swaps \[**`L`** with **`R`**].
-  * Pressing \[**`R`** + **`SELECT`** + **`START`**] simultaneously swaps \[**`A`** with **`B`**] and swaps \[**`X`** with **`Y`**].
+  * Pressing \[**`L`** + **`SELECT`** + **`START`**] simultaneously swap \[**`L`** with **`R`**].
+  * Pressing \[**`R`** + **`SELECT`** + **`START`**] simultaneously swap \[**`A`** with **`B`**] and swap \[**`X`** with **`Y`**].
 
 * **Version 1.3 and above**
   * Pressing \[ **`R`** + **`L`** + **`SELECT`** + **`X`**] simultaneously enters **EXTENDED** mode.
   * Pressing \[ **`R`** + **`L`** + **`SELECT`** + **`Y`**] simultaneously enters **DEFAULT** mode.
-  * Pressing \[**`R`** + **`L`** + **`SELECT`** + **`START`**] simultaneously swaps \[**`Y`** with **`A`**].
+  * Pressing \[**`R`** + **`L`** + **`SELECT`** + **`START`**] simultaneously swap \[**`Y`** with **`A`**].
   * Pressing \[**`R`** + **`START`** + (*Directional pad*)] simultaneously to change the **auto-fire** speed.
     * *Directional pad* :
       * **`DOWN`** : slow
