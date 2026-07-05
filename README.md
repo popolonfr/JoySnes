@@ -6,7 +6,7 @@ Here are stored [**IPS**](https://www.msx.org/wiki/How_to_use_IPS_files) patches
 
 ## Compatibility
 
-It works on MSX, FM-Towns and X68000; however, the **EXTENDED** mode is currently only used on MSX, and there is no IPS patch for other machines.
+It works on **MSX**, **FM Towns**, and **X68000**; however, **EXTENDED** Mode is currently only supported on MSX, and no IPS patches are available for the other platforms.
 
 ---
 
@@ -27,14 +27,18 @@ It works on MSX, FM-Towns and X68000; however, the **EXTENDED** mode is currentl
   * Pressing \[ **`R`** + **`L`** + **`SELECT`** + **`X`**] simultaneously enters **EXTENDED** mode.
   * Pressing \[ **`R`** + **`L`** + **`SELECT`** + **`Y`**] simultaneously enters **DEFAULT** mode.
   * Pressing \[**`R`** + **`L`** + **`SELECT`** + **`START`**] simultaneously swap \[**`Y`** with **`A`**].
+
+    * With two combinations, almost every button (**`A`**, **`B`**, **`X`** and **`Y`**) can take the place of another.
+
   * Pressing \[**`R`** + **`START`** + (*Directional pad*)] simultaneously to change the **auto-fire** speed.
     * *Directional pad* :
       * **`DOWN`** : slow
       * **`LEFT`** : Medium
       * **`RIGHT`** : Speed
       * **`UP`** : More speed
-      
-In this way, with two combinations, almost every button (**`A`**, **`B`**, **`X`** and **`Y`**) can take the place of another.
+
+  * Pressing \[ **`R`** + **`L`** + **`SELECT`** + **`A`**] simultaneously.
+    * If you swap the buttons before using a patched game that enables the eight-button mode, then perform this button combination, **EXTENDED** Mode will use that configuration. To cancel, simply perform the same button combination again.
 
 **Note**: With each change, the state is retained. The buttons must be held down for approximately 3 seconds to validate the combination. For more details, consult the [**documentation**](https://github.com/popolonfr/JoySnes/blob/main/JoySNES%20Documentation.pdf).
 
