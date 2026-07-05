@@ -34,7 +34,7 @@ It works on MSX, FM-Towns and X68000; however, the **EXTENDED** mode is currentl
       * **`RIGHT`** : Speed
       * **`UP`** : More speed
       
-In this way, with two combinations, each button (**`A`**, **`B`**, **`X`** and **`Y`**) can take the place of another.
+In this way, with two combinations, almost every button (**`A`**, **`B`**, **`X`** and **`Y`**) can take the place of another.
 
 **Note**: With each change, the state is retained. The buttons must be held down for approximately 3 seconds to validate the combination. For more details, consult the [**documentation**](https://github.com/popolonfr/JoySnes/blob/main/JoySNES%20Documentation.pdf).
 
