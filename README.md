@@ -8,7 +8,7 @@ Here are stored [**IPS**](https://www.msx.org/wiki/How_to_use_IPS_files) patches
 
 It works on **MSX**, **FM Towns**, and **X68000**; however, **EXTENDED** Mode is currently only supported on MSX, and no IPS patches are available for the other platforms.
 
-The adapter is compatible with the 8BitDo Retro Receiver for SNES/SFC. As it draws approximately 100 mA, it is not recommended to use more than one adapter at a time, or to use it simultaneously with a mouse or an active joystick (i.e. one with electronic components that also draw power) connected to the other controller port. The MSX standard provides up to 50 mA per joystick port and 300 mA per cartridge slot.
+The adapter is compatible with the [**8BitDo Retro Receiver**](https://shop.8bitdo.com/products/8bitdo-snes-adapter-bluetooth-snes-retro-receiver-super-nes) for [**SNES/SFC**](https://shop.8bitdo.com/products/8bitdo-sn30-pro-bluetooth-gamepad). As it draws approximately 100 mA, it is not recommended to use more than one adapter at a time, or to use it simultaneously with a mouse or an active joystick (i.e. one with electronic components that also draw power) connected to the other controller port. The MSX standard provides up to 50 mA per joystick port and 300 mA per cartridge slot.
 
 ---
 
